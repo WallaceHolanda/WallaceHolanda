@@ -1,5 +1,11 @@
 ## Olá! Me chamo Wallace Holanda 👋
 
+<ul>
+  <li>Formação: Graduado em Tecnologia da Informação (UFERSA)</li>
+  <li>Atuação: Desenvolvedor Flutter na Nova Data</li>
+  <li>Entusiasta: Ciência de Dados e Aprendizado de Máquinas</li>
+</ul>
+
 <div align="center">
   <a href="https://github.com/WallaceHolanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WallaceHolanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
