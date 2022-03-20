@@ -1,9 +1,9 @@
 ## Olá! Me chamo Wallace Holanda 👋
 
 <ul>
-  <li>Formação: Graduado em Tecnologia da Informação (UFERSA)</li>
-  <li>Atuação: Desenvolvedor Flutter na Nova Data</li>
-  <li>Entusiasta: Ciência de Dados e Aprendizado de Máquinas</li>
+  <li>🎓 Graduado em Tecnologia da Informação (UFERSA)</li>
+  <li>👨‍💻 Desenvolvedor Mobile Flutter na Nova Data</li>
+  <li>🔬 Entusiasta em Ciência de Dados e Aprendizado de Máquinas</li>
 </ul>
 
 <div align="center">
