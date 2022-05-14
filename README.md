@@ -2,8 +2,9 @@
 
 <ul>
   <li>🎓 Graduado em Tecnologia da Informação (UFERSA)</li>
-  <li>👨‍💻 Desenvolvedor Mobile Flutter na Nova Data</li>
-  <li>🔬 Entusiasta em Ciência de Dados e Aprendizado de Máquinas</li>
+  <li>:books: Mestrando em Ciências da Computação (UFERSA-UERN)</li>
+  <li>👨‍💻 Desenvolvedor Mobile Flutter na <a href="https://novadata.com.br/">Nova Data</a></li>
+  <li>🔬 Entusiasta em Ciência de Dados e Aprendizado de Máquina</li>
 </ul>
 
 <div align="center">
