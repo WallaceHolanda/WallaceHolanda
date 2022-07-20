@@ -25,24 +25,21 @@
   <img align="center" alt="Dart" height="32" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   
-  
+## 
 ### Banco de Dados
   <img align="center" alt="Postgres" height="32" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySql" height="32" width= "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Firebase" height="32" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Mongo" height="32" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
-### Outros
+##
+### Versionamento
   <img align="center" alt="GitHub" height="32" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="GitLab" height="32" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-
 </div>
 
 ##
-  
-## Contato
+### Contato
 <div>
-  
  <a href="https://www.linkedin.com/in/wallace-holanda-b8292816a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
