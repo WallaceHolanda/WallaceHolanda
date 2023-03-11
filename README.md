@@ -2,7 +2,7 @@
 
 <ul>
   <li>🎓 Graduado em Engenharia de Software (UFERSA)</li>
-  <li>:books: Mestrando em Ciências da Computação (UFERSA-UERN)</li>
+  <li>:books: Mestre em Ciências da Computação (UFERSA-UERN)</li>
   <li>👨‍💻 Desenvolvedor Mobile Flutter</li>
   <li>🔬 Entusiasta em Ciência de Dados e Aprendizado de Máquina</li>
 </ul>
