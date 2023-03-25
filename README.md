@@ -3,7 +3,7 @@
 <ul>
   <li>🎓 Bachelor's degree in Software Engineering (UFERSA)</li>
   <li>📚 Master's degree in Computer Science (UFERSA-UERN)</li>
-  <li>👨‍💻 Flutter Mobile Developer</li>
+  <li>👨‍💻 Flutter Mobile Developer at <a href='https://www.instagram.com/popcodemobile/?hl=pt'>Popcode</a></li>
   <li>🔬 Enthusiast in Data Science and Machine Learning</li>
 </ul>
 
